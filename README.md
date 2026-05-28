@@ -1,6 +1,6 @@
 <img width="167" height="148" alt="17765121577956204175689530073452" src="https://github.com/user-attachments/assets/15884a88-5351-441b-beeb-9595260e032e" />
 
-# Device tree blob (DTB) for amlogic and meson devices
+# Device tree blob (DTB) Collection's 
 
 ### 🖥️ Supported DTB Files List
 
